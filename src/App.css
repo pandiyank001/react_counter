@@ -1,0 +1,25 @@
+.App{
+    text-align: center;
+}
+
+.container{
+    max-width: 400px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10%;
+    margin:auto;
+}   
+
+.con-button{
+    justify-content: space-between;
+    display: flex;
+}
+button{
+    border: none;
+    color: rgb(97, 135, 161);
+    border-radius: 5px;
+    background-color: bisque;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
